@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v0.5.1 | [`v0.5.1`](https://github.com/chainguard-actions/jakejarvis-s3-sync-action/tree/v0.5.1) | [`be0c4ab`](https://github.com/jakejarvis/s3-sync-action/commit/be0c4ab89158cac4278689ebedd8407dd5f35a83) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v0.5.1 | [`v0.5.1`](https://github.com/chainguard-actions/jakejarvis-s3-sync-action/tree/v0.5.1) | [`be0c4ab`](https://github.com/jakejarvis/s3-sync-action/commit/be0c4ab89158cac4278689ebedd8407dd5f35a83) | [`HARDENING.md`](https://github.com/chainguard-actions/jakejarvis-s3-sync-action/blob/v0.5.1/HARDENING.md) |
 
 ## Privacy
 
